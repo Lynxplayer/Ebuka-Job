@@ -1,4 +1,4 @@
-'''mermaid
+```mermaid
 
 flowchart TD
     A[ "Start / Power On" ] --> B["Initialize ESP32" 
